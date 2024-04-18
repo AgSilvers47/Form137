@@ -30,12 +30,12 @@ while True:
 			continue
 		
 		if choice == '1':
-			print(n1, "+", n2, "=", (n1+n2))
+			print(n1, "+", n2, "=",(n1+n2))
 		elif choice == '2':
-			print(n1, "-", n2, "=", (n1-n2))
+			print(n1, "-", n2, "=",(n1-n2))
 		elif choice == '3':
-			print(n1, "*", n2, "=", (n1*n2))
+			print(n1, "*", n2, "=",(n1*n2))
 		elif choice == '4':
-			print(n1, "/", n2, "=", (n1/n2))
+			print(n1, "/", n2, "=",(n1/n2))
 		elif choice == '5':
-			print(n1, "**", n2, "=", (n1**n2))
+			print(n1, "**", n2, "=",(n1**n2))
